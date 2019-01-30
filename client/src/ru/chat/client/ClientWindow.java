@@ -58,7 +58,7 @@ public class ClientWindow extends JFrame implements ActionListener, TCPConnectio
 
     @Override
     public void onConnectionReady(TCPConnection tcpConnection) {
-        printMessage("Connection ready!");
+        printMessage("Connection ready!!!!");
     }
 
     @Override
